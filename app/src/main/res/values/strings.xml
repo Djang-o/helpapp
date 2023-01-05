@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Help! - Online </string>
+    <string-array name="localidades">
+        <item>Diretoria</item>
+        <item>1 Civel</item>
+        <item>2 Civel</item>
+        <item>3 Civel</item>
+        <item>1 Criminal</item>
+        <item>2 Criminal</item>
+        <item>3 Criminal</item>
+        <item>Juizado</item>
+        <item>Turma Recursal</item>
+        <item>Distribuicao</item>
+    </string-array>
+</resources>
